@@ -1,0 +1,25 @@
+2021-42-08 15:42:49.446 [http-nio-8080-exec-2] INFO  Services - can
+2021-42-08 15:42:49.449 [http-nio-8080-exec-2] INFO  Services - ozyigit
+2021-42-08 15:42:49.450 [http-nio-8080-exec-2] INFO  Services - 21
+2021-43-08 15:43:11.381 [http-nio-8080-exec-3] INFO  Services - can
+2021-43-08 15:43:11.383 [http-nio-8080-exec-3] INFO  Services - ozyigit
+2021-43-08 15:43:11.384 [http-nio-8080-exec-3] INFO  Services - 22
+2021-03-08 16:03:40.533 [http-nio-8080-exec-1] INFO  Services - can
+2021-03-08 16:03:40.565 [http-nio-8080-exec-1] INFO  Services - ozyigit
+2021-03-08 16:03:40.565 [http-nio-8080-exec-1] INFO  Services - 22
+2021-07-08 16:07:36.436 [main] INFO  LoggerApplication - Starting LoggerApplication on 2064nbs with PID 19028 (D:\elk-stack-spring-boot\logger\build\classes\java\main started by Casper in D:\elk-stack-spring-boot)
+2021-07-08 16:07:36.449 [main] INFO  LoggerApplication - No active profile set, falling back to default profiles: default
+2021-07-08 16:07:38.455 [main] INFO  LoggerApplication - Started LoggerApplication in 2.631 seconds (JVM running for 8.587)
+2021-08-08 16:08:46.682 [http-nio-8080-exec-2] INFO  Services - can
+2021-08-08 16:08:46.682 [http-nio-8080-exec-2] INFO  Services - ozyigit
+2021-08-08 16:08:46.682 [http-nio-8080-exec-2] INFO  Services - 22
+2021-09-08 16:09:45.670 [http-nio-8080-exec-3] INFO  Services - can
+2021-09-08 16:09:45.670 [http-nio-8080-exec-3] INFO  Services - ozyigit
+2021-09-08 16:09:45.670 [http-nio-8080-exec-3] INFO  Services - 22
+2021-55-09 09:55:27.778 [main] INFO  LoggerApplication - Starting LoggerApplication on 2064nbs with PID 5944 (D:\elk-stack-spring-boot\logger\build\classes\java\main started by Casper in D:\elk-stack-spring-boot)
+2021-55-09 09:55:27.801 [main] INFO  LoggerApplication - No active profile set, falling back to default profiles: default
+2021-55-09 09:55:30.273 [main] INFO  LoggerApplication - Started LoggerApplication in 3.147 seconds (JVM running for 6.74)
+2021-56-09 09:56:06.487 [http-nio-8080-exec-1] INFO  Services - Info log
+2021-56-09 09:56:06.489 [http-nio-8080-exec-1] WARN  Services - Hey, This is a warning!
+2021-56-09 09:56:06.490 [http-nio-8080-exec-1] ERROR Services - Oops! We have an Error. OK
+2021-56-09 09:56:06.491 [http-nio-8080-exec-1] FATAL Services - Damn! Fatal error. Please fix me.

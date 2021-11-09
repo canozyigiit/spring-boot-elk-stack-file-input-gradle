@@ -1,0 +1,5 @@
+2021-11-08 13:43:07 INFO  HV000001: Hibernate Validator 6.0.18.Final
+2021-11-08 13:43:56 INFO  Info log
+2021-11-08 13:43:56 WARN  Hey, This is a warning!
+2021-11-08 13:43:56 ERROR Oops! We have an Error. OK
+2021-11-08 13:43:56 FATAL Damn! Fatal error. Please fix me.
